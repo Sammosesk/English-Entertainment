@@ -62,6 +62,10 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="English",Animal planet HD 2
 http://103.81.104.118/hls/stream6.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="English",Animal planet HD 3
+https://idvd.multitvsolution.com/idvo/aphd_540p/index.m3u8
+
 #EXTINF:-1 group-title="English" tvg-logo="https://lovenature.com/wp-content/uploads/2020/01/default.png" tvg-id="-738589577_love-nature-4k",Love Nature 
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
