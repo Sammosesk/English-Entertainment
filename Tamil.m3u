@@ -21,7 +21,7 @@ http://195.201.82.32:5001/play/a00k
 #
 #EXTINF:0 tvg-id="ext" group-title="Tamil",Colors Tamil HD
 http://195.201.82.32:5001/play/a01v
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="English Entertainmnet",Comedy Central HD
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="English Entertainment",Comedy Central HD
 http://195.201.82.32:5001/play/a00e
 #EXTINF:0 tvg-id="InvestigationDiscoveryHD.us" group-title="Infotainment",Discovery ID HD
 http://195.201.82.32:5001/play/a02q
@@ -133,7 +133,7 @@ http://195.201.82.32:5001/play/a02u
 #EXTINF:0 tvg-id="ext" group-title="Sports",Ten 3 HD
 http://195.201.82.32:5001/play/a038
 
-#EXTINF:0 tvg-id="ext" group-title="Inotainment",Travel XP Eng HD
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",Travel XP Eng HD
 http://195.201.82.32:5001/play/a00l
 
 #EXTINF:0 tvg-id="ext" group-title="Telugu",Zee Cinemalu
