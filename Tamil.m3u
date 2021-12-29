@@ -54,8 +54,64 @@ http://195.201.82.32:5001/play/a01t
 http://195.201.82.32:5001/play/a01m
 #EXTINF:0 tvg-id="KtvHD.in" group-title="Tamil",KTV HD
 http://195.201.82.32:5001/play/a01q
+
+#EXTINF:0 tvg-id="Apple Digital" group-title="Tamil",Apple Digital
+http://51.79.207.150:1935/rasinetwork/appledigitel/mono.m3u8
+#EXTINF:0 tvg-id="7 Star tv" group-title="Tamil",7 Star Tv
+http://51.79.158.179:1935/live/7star/mono.m3u8
+
+#EXTINF:0 tvg-id="SS tv" group-title="Tamil",SS tv
+http://51.79.158.179:1935/live/sstv2/mono.m3u8
+
+#EXTINF:0 tvg-id="SD Media" group-title="Tamil",SD Media
+http://51.79.158.179:1935/sd/sdmedia/mono.m3u8
+
+#EXTINF:0 tvg-id="Sana Tv" group-title="Tamil",Sana TV
+
+http://51.79.158.179:1935/sanatv/sanatv/mono.m3u8
+
+#EXTINF:0 tvg-id="N Tv" group-title="Tamil",N TV
+http://51.79.158.179:1935/ntv/live/mono.m3u8
+
+#EXTINF:0 tvg-id="Aarya Tv" group-title="Tamil",Aarya TV
+http://51.79.158.179:1935/aarya/aaryatv/mono.m3u8
+
+#EXTINF:0 tvg-id="VVN Tv" group-title="Tamil",VVN TV
+http://51.195.220.104/panchayathutv/panchayathutv/mono.m3u8
+
+#EXTINF:0 tvg-id="TTV" group-title="Tamil",TTV
+http://51.79.207.150:1935/ttv/ttv/mono.m3u8
+
+#EXTINF:0 tvg-id="SMS TV" group-title="Tamil",SMS TV
+http://51.79.207.150:1935/smstvtsy/smstvtsy/mono.m3u8
+
+#EXTINF:0 tvg-id="Singam TV" group-title="Tamil",Singam TV
+http://51.79.207.150:1935/singamtv/singamtv/mono.m3u8
+
+#EXTINF:0 tvg-id="Abinaya TV" group-title="Tamil",Abinaya TV
+http://51.79.207.150:1935/purpletv/purpletv/mono.m3u8
+
+#EXTINF:0 tvg-id="Kalai Isai" group-title="Tamil",Kalai Isai
+http://51.79.207.150:1935/kalai/kalaiisai/mono.m3u8
+
+#EXTINF:0 tvg-id="Bonus HD" group-title="Tamil",Bonus HD
+http://51.79.207.150:1935/bonushd/bonushd/mono.m3u8
+
+#EXTINF:0 tvg-id="Sana Plus HD" group-title="Tamil",Sana Plus HD
+http://51.79.158.179:1935/live/sanatv2/mono.m3u8
+
+#EXTINF:0 tvg-id="Ram TV HD" group-title="Tamil",Ram TV HD
+http://51.79.158.179:1935/harimedia/live5/mono.m3u8
+
+#EXTINF:0 tvg-id="Hari TV HD" group-title="Tamil",Hari TV HD
+http://51.79.158.179:1935/harimedia/haritv/mono.m3u8
+
+#EXTINF:0 tvg-id="Anu TV" group-title="Tamil",Anu TV
+http://139.99.96.93:1935/anutv/anutv/mono.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="English Movies",MN+ HD
 http://195.201.82.32:5001/play/a039
+
 #EXTINF:0 tvg-id="ext" group-title="English Movies",MNX HD
 http://195.201.82.32:5001/play/a035
 #EXTINF:0 tvg-id="ext" group-title="Hindi",MTV Beats HD
@@ -87,11 +143,18 @@ http://195.201.82.32:5001/play/a01l
 #EXTINF:0 tvg-id="ext" group-title="Kids",Nick+ HD
 http://195.201.82.32:5001/play/a033
 
-#EXTINF:0 tvg-id="ext" group-title="English Movies",Sony Pix Hindi HD
+#EXTINF:0 tvg-id="ext" group-title="English Movies",Sony Pix HD
 http://195.201.82.32:5001/play/a02o
+
+#EXTINF:0 tvg-id="ext" group-title="English Movies",Sony Pix HD
+http://103.161.2.142/hls/sonypixhd.m3u8
 
 #EXTINF:0 tvg-id="StarMoviesHD.in" group-title="English Movies",Star Movies HD
 http://195.201.82.32:5001/play/a003
+
+#EXTINF:0 tvg-id="StarMoviesHD.in" group-title="English Movies",Star Movies HD
+http://103.161.2.142/hls/starmovies.m3u8
+
 #EXTINF:0 tvg-id="StarGoldHD.in" group-title="English Movies",Star Movies Select HD
 http://195.201.82.32:5001/play/a005
 
