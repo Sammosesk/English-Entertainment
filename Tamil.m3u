@@ -57,7 +57,19 @@ http://195.201.82.32:5001/play/a01q
 
 #EXTINF:0 tvg-id="KtvHD.in" group-title="Tamil Music",Isaiyaruvi
 http://14.199.164.20:4001/play/a0kj/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil News",POLIMER NEWS
+http://14.199.164.20:4001/play/a0lg/index.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Tamil News",PUTHIYA THALAIMURAI
+http://14.199.164.20:4001/play/a0l6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil News",NEWS7 TAMIL
+http://14.199.164.20:4001/play/a0kp/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",MK SIX
+http://14.199.164.20:4001/play/a0ks/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",MK TELEVISION
+http://14.199.164.20:4001/play/a0lh/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",MK TUNES
+http://14.199.164.20:4001/play/a0kr/index.m3u8
 #EXTINF:0 tvg-id="Apple Digital" group-title="Tamil",Apple Digital
 http://51.79.207.150:1935/rasinetwork/appledigitel/mono.m3u8
 #EXTINF:0 tvg-id="7 Star tv" group-title="Tamil",7 Star Tv
