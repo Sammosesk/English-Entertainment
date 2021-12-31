@@ -1,4 +1,42 @@
 #EXTM3U
+#EXTINF:0 tvg-id="SunTvHD.in" group-title="SUNNXT-LIVE",SUN TV HD
+https://cdn02.vidstrm.xyz:8096/s/SunTVHD/index.m3u8
+#EXTINF:0 tvg-id="SunNews.in" group-title="SUNNXT-LIVE",SUN NEWS
+https://cdn02.vidstrm.xyz:8096/s/SunNews/index.m3u8
+#EXTINF:0 tvg-id="KtvHD.in" group-title="SUNNXT-LIVE",KTV HD
+https://cdn02.vidstrm.xyz:8096/s/KTVHD/index.m3u8
+#EXTINF:0 tvg-id="SunMusic.in" group-title="SUNNXT-LIVE",SUN MUSIC HD
+https://cdn02.vidstrm.xyz:8096/s/SunMusicHD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SUNNXT-LIVE",SUN LIFE
+https://cdn02.vidstrm.xyz:8096/s/SunLife/index.m3u8
+#EXTINF:0 tvg-id="AdithyaTV.in" group-title="SUNNXT-LIVE",ADITHYA TV
+https://cdn02.vidstrm.xyz:8096/s/AdithyaTV/index.m3u8
+#EXTINF:0 tvg-id="ChuttiTV.in" group-title="SUNNXT-LIVE",CHUTTI TV
+https://cdn02.vidstrm.xyz:8096/s/ChuttiTV/index.m3u8
+#EXTINF:0 tvg-id="SunTv.in" group-title="SUNNXT-LIVE",SUN TV
+https://cdn02.vidstrm.xyz:8096/s/SunTV/index.m3u8
+#EXTINF:0 tvg-id="KTV.uk" group-title="SUNNXT-LIVE",KTV
+https://cdn02.vidstrm.xyz:8096/s/KTV/index.m3u8
+#EXTINF:0 tvg-id="SunMusic.in" group-title="SUNNXT-LIVE",SUN MUSIC
+https://cdn02.vidstrm.xyz:8096/s/SunMusic/index.m3u8
+#EXTINF:0 tvg-id="GeminiTvHD.in" group-title="SUNNXT-LIVE",GEMINI TV HD
+https://cdn02.vidstrm.xyz:8096/s/GeminiTVHD/index.m3u8
+#EXTINF:0 tvg-id="GeminiMovies.in" group-title="SUNNXT-LIVE",GEMINI MOVIES HD
+https://cdn02.vidstrm.xyz:8096/s/GeminiMoviesHD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SUNNXT-LIVE",GEMINI MUSIC HD
+https://cdn02.vidstrm.xyz:8096/s/GeminiMusicHD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SUNNXT-LIVE",GEMINI COMEDY
+https://cdn02.vidstrm.xyz:8096/s/GeminiComedy/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SUNNXT-LIVE",GEMINI LIFE
+https://cdn02.vidstrm.xyz:8096/s/GeminiLife/index.m3u8
+#EXTINF:0 tvg-id="KushiTv.in" group-title="SUNNXT-LIVE",KUSHI TV
+https://cdn02.vidstrm.xyz:8096/s/KushiTV/index.m3u8
+#EXTINF:0 tvg-id="GeminiTv.in" group-title="SUNNXT-LIVE",GEMINI TV
+https://cdn02.vidstrm.xyz:8096/s/GeminiTV/index.m3u8
+#EXTINF:0 tvg-id="GeminiMovies.in" group-title="SUNNXT-LIVE",GEMINI MOVIES
+https://cdn02.vidstrm.xyz:8096/s/GeminiMovies/index.m3u8
+#EXTINF:0 tvg-id="GeminiMusic.in" group-title="SUNNXT-LIVE",GEMINI MUSIC
+https://cdn02.vidstrm.xyz:8096/s/GeminiMusic/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",& Flix Eng HD
 http://195.201.82.32:5001/play/a001
 #EXTINF:0 tvg-id="ext" group-title="English Movies",& Flix Hindi HD
