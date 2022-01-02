@@ -93,8 +93,12 @@ http://195.201.82.32:5001/play/a01m
 #EXTINF:0 tvg-id="KtvHD.in" group-title="Tamil",KTV HD
 http://195.201.82.32:5001/play/a01q
 
-#EXTINF:0 tvg-id="KtvHD.in" group-title="Tamil Music",Isaiyaruvi
+#EXTINF:0 tvg-id="ext" group-title="Tamil Music",Isaiyaruvi
 http://14.199.164.20:4001/play/a0kj/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Tamil Music",Jaya Max
+http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/9237
+
 #EXTINF:0 tvg-id="ext" group-title="Tamil News",POLIMER NEWS
 http://14.199.164.20:4001/play/a0lg/index.m3u8
 
@@ -162,6 +166,11 @@ http://51.79.158.179:1935/harimedia/haritv/mono.m3u8
 #EXTINF:0 tvg-id="Anu TV" group-title="Tamil",Anu TV
 http://139.99.96.93:1935/anutv/anutv/mono.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="English Movies",[IN] And Flix HD
+http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/8807
+#EXTINF:0 tvg-id="ext" group-title="English Movies",[IN] And Prive HD
+http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/8808
+
 #EXTINF:0 tvg-id="ext" group-title="English Movies",MN+ HD
 http://195.201.82.32:5001/play/a039
 
@@ -208,9 +217,18 @@ http://195.201.82.32:5001/play/a003
 #EXTINF:0 tvg-id="StarMoviesHD.in" group-title="English Movies",Star Movies HD
 http://103.161.2.142/hls/starmovies.m3u8
 
-#EXTINF:0 tvg-id="StarGoldHD.in" group-title="English Movies",Star Movies Select HD
+#EXTINF:0 tvg-id="ext" group-title="English Movies",Star Movies Select HD
 http://195.201.82.32:5001/play/a005
-
+#EXTINF:0 tvg-id="ext" group-title="English Movies",[IN] STAR MOVIES SELECT FHD
+http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/9211
+#EXTINF:0 tvg-id="ext" group-title="Sports",[IN]  IN STAR SPORTS 1 FHD
+http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/9212
+#EXTINF:0 tvg-id="ext" group-title="Sports",[IN]  IN STAR SPORTS 1 FHD HINDI
+http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/9213
+#EXTINF:0 tvg-id="ext" group-title="Sports",[IN] STAR SPORTS 2 FHD
+http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/9214
+#EXTINF:0 tvg-id="ext" group-title="Sports",[IN]  IN STAR SPORTS SELECT 2 HD
+http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/9215
 
 #EXTINF:0 tvg-id="StarSportsHD1.in" group-title="Sports",Star Sports 1 HD
 http://195.201.82.32:5001/play/a027
@@ -224,6 +242,7 @@ http://195.201.82.32:5001/play/a02b
 http://195.201.82.32:5001/play/a02c
 #EXTINF:0 tvg-id="ext" group-title="Tamil",Star Vijay HD
 http://195.201.82.32:5001/play/a01j
+
 #EXTINF:0 tvg-id="StarWorldHD.in" group-title="English Entertainment",Star World HD
 http://195.201.82.32:5001/play/a002
 #EXTINF:0 tvg-id="StarWorldPremierHD.in" group-title="English Entertainment",Star World Premier HD
@@ -232,7 +251,8 @@ http://195.201.82.32:5001/play/a004
 http://195.201.82.32:5001/play/a01p
 #EXTINF:0 tvg-id="SunTvHD.in" group-title="Tamil",Sun TV HD
 http://195.201.82.32:5001/play/a01o
-
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Star Vijay HD
+http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/9216
 #EXTINF:0 tvg-id="ext" group-title="English Entertainment",TLC World Eng HD
 http://195.201.82.32:5001/play/a00h
 
