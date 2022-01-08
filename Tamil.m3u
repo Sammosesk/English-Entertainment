@@ -142,11 +142,14 @@ http://195.201.82.32:5001/play/a039
 
 #EXTINF:0 tvg-id="ext" group-title="English Movies",MN+ HD
 http://58.27.219.166:8000/play/a05t/index.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="English Movies",MN+ HD
+http://103.131.212.138:8000/play/a00u/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",[IN] And Flix HD
 http://58.27.219.166:8000/play/a0b1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",MNX HD
 http://195.201.82.32:5001/play/a035
+#EXTINF:0 tvg-id="ext" group-title="English Movies",MNX HD
+http://103.131.212.138:8000/play/a030/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",MN+ HD
 http://103.131.212.138:8000/play/a00u/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="English Movies",MNX HD
@@ -200,7 +203,8 @@ http://195.201.82.32:5001/play/a003
 
 #EXTINF:0 tvg-id="StarMoviesHD.in" group-title="English Movies",Star Movies HD
 http://103.161.2.142/hls/starmovies.m3u8
-
+#EXTINF:0 tvg-id="StarMoviesHD.in" group-title="English Movies",Star Movies HD
+http://103.131.212.138:8000/play/a00v/index.m3u8
 #EXTINF:0 tvg-id="StarMoviesHD.in" group-title="English Movies",Star Movies HD
 http://58.27.219.166:8000/play/a05u/index.m3u8
 
@@ -212,7 +216,8 @@ http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/9211
 http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/9212
 #EXTINF:0 tvg-id="ext" group-title="Sports",[IN]  IN STAR SPORTS 1 FHD
 http://58.27.219.166:8000/play/a0ee/index.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="Sports",[IN]  IN STAR SPORTS 1 FHD
+http://103.131.212.138:8000/play/a025/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[IN]  IN STAR SPORTS 1 FHD HINDI
 http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/9213
 #EXTINF:0 tvg-id="ext" group-title="Sports",[IN] STAR SPORTS 2 FHD
@@ -228,6 +233,8 @@ http://195.201.82.32:5001/play/a026
 http://195.201.82.32:5001/play/a024
 #EXTINF:0 tvg-id="StarSportsHD2.in" group-title="Sports",Star Sports 2 HD
 http://58.27.219.166:8000/play/a05f/index.m3u8
+#EXTINF:0 tvg-id="StarSportsHD2.in" group-title="Sports",Star Sports 2 HD
+http://103.131.212.138:8000/play/a026/index.m3u8
 #EXTINF:0 tvg-id="StarSportsSelectHD1.in" group-title="Sports",Star Sports Select 1 HD
 http://195.201.82.32:5001/play/a02b
 
