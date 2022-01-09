@@ -259,6 +259,9 @@ http://195.201.82.32:5001/play/a01p
 http://195.201.82.32:5001/play/a01o
 #EXTINF:0 tvg-id="SunTvHD.in" group-title="Tamil",Sun TV HD
 http://58.27.219.166:8000/play/a0es/index.m3u8
+
+#EXTINF:0 tvg-id="SunTvHD.in" group-title="Tamil",Sun TV HD O
+http://opplex.tv:8080/live/Zali/Zali/167633.ts
 #EXTINF:0 tvg-id="ext" group-title="Tamil",Star Vijay HD
 http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/9216
 
